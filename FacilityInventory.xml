@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FacilityInventory>
+	
+	<Facility location = "Seattle, WA">
+		<Item>
+			<ItemId>ABC123</ItemId>
+			<Item_Quantity>45</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>JBL3100</ItemId>
+			<Item_Quantity>52</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>PL132-C</ItemId>
+			<Item_Quantity>54</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>PU238</ItemId>
+			<Item_Quantity>60</Item_Quantity>
+		</Item>
+	</Facility>
+	<Facility location = "San Francisco, CA">
+		
+		<Item>
+			<ItemId>RL123A</ItemId>
+			<Item_Quantity>40</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>XLK200B</ItemId>
+			<Item_Quantity>8</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>SR71-D</ItemId>
+			<Item_Quantity>81</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>CT1928</ItemId>
+			<Item_Quantity>46</Item_Quantity>
+		</Item>
+
+	</Facility>
+	
+	<Facility location = "Los Angeles, CA">
+	
+		<Item>
+			<ItemId>RX100-3</ItemId>
+			<Item_Quantity>57</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>JBL3100</ItemId>
+			<Item_Quantity>60</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>E241i</ItemId>
+			<Item_Quantity>44</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>XTP202</ItemId>
+			<Item_Quantity>32</Item_Quantity>
+		</Item>
+	
+	</Facility>
+	
+	<Facility location = "Phoenix, AZ">
+	
+		<Item>
+			<ItemId>RX100-3</ItemId>
+			<Item_Quantity>18</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>SR71-D</ItemId>
+			<Item_Quantity>55</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>SN-241-L</ItemId>
+			<Item_Quantity>22</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>ZTF109</ItemId>
+			<Item_Quantity>54</Item_Quantity>
+		</Item>
+	
+	</Facility>	
+	<Facility location = "Denver, CO">
+	
+		<Item>
+			<ItemId>ABC123</ItemId>
+			<Item_Quantity>80</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>RL123A</ItemId>
+			<Item_Quantity>110</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>RTF110</ItemId>
+			<Item_Quantity>100</Item_Quantity>
+		</Item>
+			
+	</Facility>
+	<Facility location = "Santa Fe, NM">
+	
+		<Item>
+			<ItemId>RX100-3</ItemId>
+			<Item_Quantity>144</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>CR2032</ItemId>
+			<Item_Quantity>280</Item_Quantity>
+		</Item>
+					
+	</Facility>
+	<Facility location = "Fargo, ND">
+	
+		<Item>
+			<ItemId>ABC123</ItemId>
+			<Item_Quantity>25</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>JBL3100</ItemId>
+			<Item_Quantity>32</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>XLK200B</ItemId>
+			<Item_Quantity>82</Item_Quantity>
+		</Item>
+					
+	</Facility>
+	<Facility location = "Austin, TX">
+	
+		<Item>
+			<ItemId>RL123A</ItemId>
+			<Item_Quantity>66</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>RX100-3</ItemId>
+			<Item_Quantity>35</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>SN-241-L</ItemId>
+			<Item_Quantity>35</Item_Quantity>
+		</Item>
+					
+	</Facility>
+	<Facility location = "St. Louis, MO">
+	
+		<Item>
+			<ItemId>ABC123</ItemId>
+			<Item_Quantity>70</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>SR71-D</ItemId>
+			<Item_Quantity>45</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>PU238</ItemId>
+			<Item_Quantity>82</Item_Quantity>
+		</Item>
+					
+	</Facility>
+	<Facility location = "Chicago, IL">
+	
+		<Item>
+			<ItemId>ABC123</ItemId>
+			<Item_Quantity>60</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>E241i</ItemId>
+			<Item_Quantity>64</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>CT1928</ItemId>
+			<Item_Quantity>20</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>RTF110</ItemId>
+			<Item_Quantity>110</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>XTP202</ItemId>
+			<Item_Quantity>20</Item_Quantity>
+		</Item>
+
+	</Facility>
+	<Facility location = "New Orleans, LA">
+	
+		<Item>
+			<ItemId>MM35P</ItemId>
+			<Item_Quantity>100</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>PU238</ItemId>
+			<Item_Quantity>49</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>ZTF109</ItemId>
+			<Item_Quantity>120</Item_Quantity>
+		</Item>
+					
+	</Facility>
+	<Facility location = "Nashville, TN">
+	
+		<Item>
+			<ItemId>RX100-3</ItemId>
+			<Item_Quantity>78</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>XLK200B</ItemId>
+			<Item_Quantity>250</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>CR2032</ItemId>
+			<Item_Quantity>366</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>SN-241-L</ItemId>
+			<Item_Quantity>16</Item_Quantity>
+		</Item>
+					
+	</Facility>
+	<Facility location = "Detroit, MI">
+	
+		<Item>
+			<ItemId>JBL3100</ItemId>
+			<Item_Quantity>117</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>SR71-D</ItemId>
+			<Item_Quantity>8</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>CT1928</ItemId>
+			<Item_Quantity>72</Item_Quantity>
+		</Item>
+					
+	</Facility>
+	<Facility location = "Boston, MA">
+	
+		<Item>
+			<ItemId>MM35P</ItemId>
+			<Item_Quantity>47</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>PL132-C</ItemId>
+			<Item_Quantity>83</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>CT1928</ItemId>
+			<Item_Quantity>65</Item_Quantity>
+		</Item>
+					
+	</Facility>
+	<Facility location = "New York City, NY">
+	
+		<Item>
+			<ItemId>RL123A</ItemId>
+			<Item_Quantity>12</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>CR2032</ItemId>
+			<Item_Quantity>132</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>E241i</ItemId>
+			<Item_Quantity>72</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>ZTF109</ItemId>
+			<Item_Quantity>28</Item_Quantity>
+		</Item>
+
+	</Facility>
+	<Facility location = "Norfolk, VA">
+	
+		<Item>
+			<ItemId>MM35P</ItemId>
+			<Item_Quantity>66</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>RL123A</ItemId>
+			<Item_Quantity>50</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>XLK200B</ItemId>
+			<Item_Quantity>14</Item_Quantity>
+		</Item>
+					
+	</Facility>
+	<Facility location = "Atlanta, GA">
+	
+		<Item>
+			<ItemId>RX100-3</ItemId>
+			<Item_Quantity>90</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>E241i</ItemId>
+			<Item_Quantity>32</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>PU238</ItemId>
+			<Item_Quantity>120</Item_Quantity>
+		</Item>
+					
+	</Facility>
+	<Facility location = "Miami, FL">
+	
+		<Item>
+			<ItemId>MM35P</ItemId>
+			<Item_Quantity>16</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>JBL3100</ItemId>
+			<Item_Quantity>44</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>SR71-D</ItemId>
+			<Item_Quantity>15</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>SN-241-L</ItemId>
+			<Item_Quantity>28</Item_Quantity>
+		</Item>
+		<Item>
+			<ItemId>XTP202</ItemId>
+			<Item_Quantity>88</Item_Quantity>
+		</Item>
+					
+	</Facility>
+
+
+</FacilityInventory>
